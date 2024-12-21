@@ -1,4 +1,4 @@
-## Hi there 👋
+## My GitHub Account 👋
 
 <!--
 **Reda-Kriate/Reda-Kriate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
