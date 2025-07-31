@@ -1,5 +1,22 @@
 ## My GitHub Account 👋
-https://camo.githubusercontent.com/49f444b55940c6885553e8ca12bc529224bae42a4f3735eff5f9b4b082fac135/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6162646f75323336352673686f775f69636f6e733d74727565266c6f63616c653d656e
+### Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
+
+### Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white)](https://github.com/ton_pseudo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ton_profil/)
+
+### My GitHub Stats
+
+![Reda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton_pseudo&show_icons=true&theme=dark)
+
 
 <!--
 **Reda-Kriate/Reda-Kriate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
