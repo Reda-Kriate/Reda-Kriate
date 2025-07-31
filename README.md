@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reda Kriate</h1>
-<p align="center">💻 Fullstack Developer | ☁️ Cloud Enthusiast | 🐘 Database Explorer</p>
+<p align="center">💻 Fullstack Developer </p>
 
 ---
 
@@ -20,9 +20,12 @@
 
 <p align="left">
   <!-- Langages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
@@ -33,7 +36,8 @@
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
@@ -53,13 +57,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-Kriate&layout=compact&langs_count=10&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reda-Kriate&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reda-Kriate&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-Kriate&layout=compact&theme=tokyonight&langs_count=10" />
+  <img src="https://streak-stats.demolab.com?user=Reda-Kriate&theme=tokyonight" />
 </p>
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reda-Kriate&theme=default" />
+  <img src="https://komarev.com/ghpvc/?username=Reda-Kriate&label=Profile%20views&color=0e75b6&style=flat" alt="Reda-Kriate" />
 </p>
 
 <!--
