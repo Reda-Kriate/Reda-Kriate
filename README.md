@@ -67,10 +67,10 @@
 
 
 
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://images.seeklogo.com/logo-png/29/1/microsoft-sql-server-logo-png_seeklogo-298266.png" height="28" />
 
   <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Flyway-CC342D?logo=flyway&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" height="28" />
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 
