@@ -67,10 +67,10 @@
 
 
 
-  <img src="https://images.seeklogo.com/logo-png/29/1/microsoft-sql-server-logo-png_seeklogo-298266.png" height="28" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" height="28" />
 
   <!-- DevOps -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" height="28" />
+  <img src="https://camo.githubusercontent.com/821c82c9e0f2e8df2c413fe555037e4bbfd69a6b686b039ee94dcf6f534977a4/68747470733a2f2f646f63756d656e746174696f6e2e7265642d676174652e636f6d2f646f776e6c6f61642f6174746163686d656e74732f3133383334363837362f46443f76657273696f6e3d33266d6f64696669636174696f6e446174653d31363333393832383639393532266170693d7632" height="28" />
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 
