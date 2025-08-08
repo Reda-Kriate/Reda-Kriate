@@ -53,26 +53,52 @@
 <!-- MongoDB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
-
+<!-- AWS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+    <!-- Kubernetes -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+
+<!-- Minikube -->
+<img src="https://seeklogo.com/images/M/minikube-logo-7B5C2E6B45-seeklogo.com.png" alt="minikube" width="40" height="40"/>
 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="28" />
 
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Flyway-CC342D?logo=flyway&logoColor=white&style=for-the-badge" height="28" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="28" />
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<!-- Slack -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+  <img src="https://site.mockito.org/images/logo.png" alt="mockito" width="40" height="40"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
   <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 <!-- macOS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
 </p>
+
+
+
+
+
+
+
+
+<!-- JUnit5 -->
+
+
+<!-- Mockito -->
+
 
 
 
