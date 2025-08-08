@@ -54,7 +54,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
 <!-- AWS -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
@@ -63,7 +63,7 @@
     <!-- Kubernetes -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 <!-- Minikube -->
-<img src="https://seeklogo.com/images/M/minikube-logo-7B5C2E6B45-seeklogo.com.png" alt="minikube" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:800/format:webp/0*KzqL3xqmXzV5PPjX.png" alt="minikube" width="40" height="40"/>
 
 
 
@@ -81,7 +81,7 @@
 
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
   <!-- Mockito -->
-<img src="https://avatars.githubusercontent.com/u/1071372?s=200&v=4" alt="mockito" width="40" height="40"/>
+<img src="https://mkyong.com/wp-content/uploads/2016/06/mockito-logo.png" alt="mockito" width="40" height="40"/>
   <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
